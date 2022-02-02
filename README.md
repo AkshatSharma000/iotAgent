@@ -3,7 +3,8 @@ This is the python application used in iot device to collect data from the devic
 It populates the data in real time with an JSON schema.
 
 JSON Schema:
-'''sh
+
+```sh
 {
   "userID": "Akshat",
   "deviceID": "Test1",
@@ -12,4 +13,4 @@ JSON Schema:
   "memory_usage": "8Gb",
   "disk_partitions_usage": "/dev/nvme0n1p6  290G   76G  200G  28% /"
 }
-''' 
+```
