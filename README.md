@@ -14,3 +14,12 @@ JSON Schema:
   "disk_partitions_usage": "/dev/nvme0n1p6  290G   76G  200G  28% /"
 }
 ```
+
+## KeyPoints
+    cpu_usage is like 50%
+
+    memory usage is 4gb/16b 
+
+    disk_partitions is a list - its just output of df command in linux.
+    /dev/nvme0n1p6  290G   76G  200G  28% /
+    /dev/nvme0n1p1  296M   31M  266M  11% /boot/ef
